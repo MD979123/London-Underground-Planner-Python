@@ -455,7 +455,7 @@ def open_saved_route(route):
     result_page.pack(fill="both", expand=True)
 
 def back_to_menu():
-    result_page.pack_forget() # Return to main menu
+    result_page.pack_forget() # Returns to the main menu regardless from which page is currently open
     saved_page.pack_forget()
     menu_frame.pack(fill="both", expand=True)
 ctk.CTkButton(menu_frame, text="Saved Routes", fg_color="dodgerblue4", border_width=2, command=show_saved_routes).pack(pady=10)
