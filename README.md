@@ -13,5 +13,10 @@ Also, the East London Line does not exist anymore as a London Underground line, 
 
 Update 8/10/26 : Heathrow Terminal 5 on the Piccadilly Line has been added.
   
-2. On certain route queries or searches, the Northern line may give the wrong direction to take. Consult a TfL map if necessary, before travelling and using the directions given by this app.
+2. On certain route queries or searches, some lines may give the wrong direction to take. Consult a TfL map if necessary, before travelling and using the directions given by this app.
+One example is on the Piccadilly line, where on certain searches involving the stations at the Heathrow Terminals, where it gives the wrong direction.
+
+Another example is on the Northern line, where on the Charing Cross branch, it may give Morden as the wrong terminus, or any other wrong displayal.
+
+Another example is on the Central line, where if you travel between the Ealing Broadway branch and the West Ruislip branch or vice versa, it does not show that you have to change platforms due to different branches; the app thinks it is the same branch. 
 
