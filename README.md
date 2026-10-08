@@ -13,5 +13,5 @@ Also, the East London Line does not exist anymore as a London Underground line, 
 
 The database also does not contain Heathrow Terminal 5 station on the Piccadilly Line. 
   
-3. On certain route queries or searches, the Northern line may give the wrong direction to take. Consult a TfL map if necessary, before travelling and using the directions given by this app.
+2. On certain route queries or searches, the Northern line may give the wrong direction to take. Consult a TfL map if necessary, before travelling and using the directions given by this app.
 
