@@ -15,6 +15,7 @@ id,latitude,longitude,name,display_name,zone,total_lines,rail
 15,51.5396,0.081,Barking,NULL,4,2,1
 16,51.5856,0.0887,Barkingside,NULL,5,1,0
 17,51.4905,-0.2139,Barons Court,Barons<br />Court,2,2,0
+306,51.479917,-0.142111,Battersea Power Station,Battersea<br />Power<br />Station,1,1,0
 18,51.5121,-0.1879,Bayswater,NULL,1,2,0
 19,51.5148,0.0613,Beckton,NULL,3,1,0
 20,51.5087,0.055,Beckton Park,Beckton<br />Park,3,1,0
@@ -153,6 +154,7 @@ id,latitude,longitude,name,display_name,zone,total_lines,rail
 171,51.4902,-0.0145,Mudchute,NULL,2,1,0
 172,51.5542,-0.2503,Neasden,NULL,3,1,0
 173,51.5756,0.0899,Newbury Park,Newbury<br />Park,4,1,0
+305,51.48008,-0.129038,Nine Elms,Nine<br />Elms,1,1,0
 176,51.4995,-0.3142,Northfields,NULL,3,1,0
 177,51.5483,-0.3687,Northolt,NULL,5,1,0
 178,51.5784,-0.3184,Northwick Park,Northwick<br />Park,4,1,0
