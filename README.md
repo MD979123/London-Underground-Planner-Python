@@ -3,7 +3,7 @@ This is a London Underground planner which I made in Python, using mainly librar
 I made this for my A Level OCR Computer Science NEA project.
 This does not include the Elizabeth Line, Trams, or London Overground. 
 
-When running the Python file, ensure that the 3 CSV files also attached here in the repository are located in the same folder/directory as the Python file
+When running the Python file, ensure that the 3 CSV files also attached here in the repository are located in the same folder/directory as the Python/.exe file
 
 IMPORTANT INFORMATION:
 1. The databases used were not created by me, so they also contain the DLR and the East London Line.
