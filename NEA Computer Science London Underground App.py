@@ -168,7 +168,7 @@ ctk.CTkButton(menu_frame, text="Logout", fg_color="red", command=logout).pack(pa
 
 station_map = {} # Initially empty after which the database below is imported
 
-with open("londonstations.csv", encoding="utf-8") as f:
+with open("londonstations.csv", encoding="cp1252") as f:
     reader = csv.DictReader(f)
     reader.fieldnames = [h.strip() for h in reader.fieldnames]
 
